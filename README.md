@@ -2,4 +2,4 @@
 
 # simpleChart
 solve quera.ir challenge
-working with API to show some details from countries and make charts without any lib or framework
+working with API to show some details from countries and make charts without any lib or framework (run it with liveserver )
