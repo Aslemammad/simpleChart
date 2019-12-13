@@ -1,0 +1,41 @@
+body {
+    overflow: hidden;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.chart {
+    display: flex;
+    position: relative;
+    border: 2px solid grey;
+    flex: 0 0 500px;
+    height: 300px;
+    margin: 40px;
+    align-items: flex-end;
+}
+
+.label-x {
+    position: absolute;
+    bottom: -1.5em;
+    left: 50%;
+    transform: translateX(-50%) translateY(50%);
+}
+
+.label-y {
+    position: absolute;
+    top: 50%;
+    left: -1.5em;
+    transform: translateX(-50%) translateY(-50%) rotate(-90deg);
+}
+
+.info {
+    flex: 0 0 300px;
+}
+
+.item {
+    display: inline-block;
+    flex-grow: 1;
+}

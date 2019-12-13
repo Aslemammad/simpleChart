@@ -1,0 +1,235 @@
+{
+    "labels": {
+        "x": "Country",
+        "y": "Population"
+    },
+    "items": [{
+            "title": "South Africa",
+            "description": "South Africa is a country on the southernmost tip of the African continent, marked by several distinct ecosystems. Inland safari destination Kruger National Park is populated by big game. The Western Cape offers beaches, lush winelands around Stellenbosch and Paarl, craggy cliffs at the Cape of Good Hope, forest and lagoons along the Garden Route, and the city of Cape Town, beneath flat-topped Table Mountain.",
+            "color": "#253b6e",
+            "value": 58065097
+        },
+        {
+            "title": "Sudan",
+            "description": "Sudan, officially the Republic of the Sudan and sometimes referred to as North Sudan, is a country in Northeast Africa.",
+            "color": "#1f5f8b",
+            "value": 42514094
+        },
+        {
+            "title": "Ethiopia",
+            "description": "Ethiopia, in the Horn of Africa, is a rugged, landlocked country split by the Great Rift Valley. With archaeological finds dating back more than 3 million years, it’s a place of ancient culture. Among its important sites are Lalibela with its rock-cut Christian churches from the 12th–13th centuries. Aksum is the ruins of an ancient city with obelisks, tombs, castles and Our Lady Mary of Zion church.",
+            "color": "#253b6e",
+            "value": 110135635
+        },
+        {
+            "title": "Iran",
+            "description": "Iran, also called Persia, and officially the Islamic Republic of Iran, is a country in Western Asia. With over 81 million inhabitants, Iran is the world's 18th most populous country. Its territory spans 1,648,195 km², making it the second largest country in the Middle East and the 17th largest in the world.",
+            "color": "#80caef",
+            "value": 82820766
+        },
+        {
+            "title": "Italy",
+            "description": "Italy, a European country with a long Mediterranean coastline, has left a powerful mark on Western culture and cuisine. Its capital, Rome, is home to the Vatican as well as landmark art and ancient ruins. Other major cities include Florence, with Renaissance masterpieces such as Michelangelo’s \"David\" and Brunelleschi's Duomo; Venice, the city of canals; and Milan, Italy’s fashion capital.",
+            "color": "#1891ac",
+            "value": 59216525
+        },
+        {
+            "title": "Yemen",
+            "description": "Yemen, officially the Republic of Yemen, is a country at the southern end of the Arabian Peninsula in Western Asia. It is the second-largest Arab sovereign state in the peninsula, occupying 527,970 square kilometres. The coastline stretches for about 2,000 kilometres.",
+            "color": "#80caef",
+            "value": 29579986
+        },
+        {
+            "title": "Mozambique",
+            "description": "Mozambique is a southern African nation whose long Indian Ocean coastline is dotted with popular beaches like Tofo, as well as offshore marine parks. In the Quirimbas Archipelago, a 250km stretch of coral islands, mangrove-covered Ibo Island has colonial-era ruins surviving from a period of Portuguese rule. The Bazaruto Archipelago farther south has reefs which protect rare marine life including dugongs.",
+            "color": "#253b6e",
+            "value": 31408823
+        },
+        {
+            "title": "Cameroon",
+            "description": "Cameroon officially the Republic of Cameroon, is a country in Central Africa.",
+            "color": "#1f5f8b",
+            "value": 25312993
+        },
+        {
+            "title": "Afghanistan",
+            "description": "Afghanistan, officially the Islamic Republic of Afghanistan, is a landlocked country located in South-Central Asia. Afghanistan is bordered by Pakistan in the south and east; Iran in the west; Turkmenistan, Uzbekistan, and Tajikistan in the north; and in the far northeast, China.",
+            "color": "#1891ac",
+            "value": 37209007
+        },
+        {
+            "title": "Myanmar",
+            "description": "Myanmar (formerly Burma) is a Southeast Asian nation of more than 100 ethnic groups, bordering India, Bangladesh, China, Laos and Thailand. Yangon (formerly Rangoon), the country's largest city, is home to bustling markets, numerous parks and lakes, and the towering, gilded Shwedagon Pagoda, which contains Buddhist relics and dates to the 6th century.",
+            "color": "#1f5f8b",
+            "value": 54336138
+        },
+        {
+            "title": "Japan",
+            "description": "Japan is an island country in East Asia. Located in the Pacific Ocean, it lies off the eastern coast of the Asian continent and stretches from the Sea of Okhotsk in the north to the East China Sea and the Philippine Sea in the south.",
+            "color": "#80caef",
+            "value": 126854745
+        },
+        {
+            "title": "Sri Lanka",
+            "description": "Sri Lanka, officially the Democratic Socialist Republic of Sri Lanka, is an island country in South Asia, located in the Indian Ocean to the southwest of the Bay of Bengal and to the southeast of the Arabian Sea.",
+            "color": "#1f5f8b",
+            "value": 21018859
+        },
+        {
+            "title": "Ukraine",
+            "description": "Ukraine is a large country in Eastern Europe known for its Orthodox churches, Black Sea coastline and forested mountains. Its capital, Kiev, features the gold-domed St. Sophia's Cathedral, with 11th-century mosaics and frescoes. Overlooking the Dnieper River is the Kiev Pechersk Lavra monastery complex, a Christian pilgrimage site housing Scythian tomb relics and catacombs containing mummified Orthodox monks.",
+            "color": "#80caef",
+            "value": 43795220
+        },
+        {
+            "title": "Spain",
+            "description": "Spain, a country on Europe’s Iberian Peninsula, includes 17 autonomous regions with diverse geography and cultures. Capital city Madrid is home to the Royal Palace and Prado museum, housing works by European masters. Segovia has a medieval castle (the Alcázar) and an intact Roman aqueduct. Catalonia’s capital, Barcelona, is defined by Antoni Gaudí’s whimsical modernist landmarks like the Sagrada Família church.",
+            "color": "#1f5f8b",
+            "value": 46441049
+        },
+        {
+            "title": "France",
+            "description": "France, in Western Europe, encompasses medieval cities, alpine villages and Mediterranean beaches. Paris, its capital, is famed for its fashion houses, classical art museums including the Louvre and monuments like the Eiffel Tower. The country is also renowned for its wines and sophisticated cuisine. Lascaux’s ancient cave drawings, Lyon’s Roman theater and the vast Palace of Versailles attest to its rich history.",
+            "color": "#253b6e",
+            "value": 65480710
+        },
+        {
+            "title": "Canada",
+            "description": "Canada is a country in the northern part of North America. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres, making it the world's second-largest country by total area.",
+            "color": "#1f5f8b",
+            "value": 37279811
+        },
+        {
+            "title": "Uganda",
+            "description": "Uganda is a landlocked country in East Africa whose diverse landscape encompasses the snow-capped Rwenzori Mountains and immense Lake Victoria. Its abundant wildlife includes chimpanzees as well as rare birds. ",
+            "color": "#1891ac",
+            "value": 45711874
+        },
+        {
+            "title": "Angola",
+            "description": "Angola is a Southern African nation whose varied terrain encompasses tropical Atlantic beaches, a labyrinthine system of rivers and Sub-Saharan desert that extends across the border into Namibia.",
+            "color": "#253b6e",
+            "value": 31787566
+        },
+        {
+            "title": "North Korea",
+            "description": "North Korea, officially the Democratic People's Republic of Korea, is a country in East Asia constituting the northern part of the Korean Peninsula, with Pyongyang the capital and the largest city in the country.",
+            "color": "#1891ac",
+            "value": 25727408
+        },
+        {
+            "title": "Philippines",
+            "description": "The Philippines, officially the Republic of the Philippines, is an archipelagic country in Southeast Asia. Situated in the western Pacific Ocean, it consists of about 7,641 islands that are categorized broadly under three main geographical divisions from north to south: Luzon, Visayas, and Mindanao.",
+            "color": "#253b6e",
+            "value": 108106310
+        },
+        {
+            "title": "South Korea",
+            "description": "South Korea, an East Asian nation on the southern half of the Korean Peninsula, shares one of the world’s most heavily militarized borders with North Korea. It’s equally known for its green, hilly countryside dotted with cherry trees and centuries-old Buddhist temples, plus its coastal fishing villages, sub-tropical islands and high-tech cities such as Seoul, the capital.",
+            "color": "#80caef",
+            "value": 51339238
+        },
+        {
+            "title": "Turkey",
+            "description": "Turkey is a nation straddling eastern Europe and western Asia with cultural connections to ancient Greek, Persian, Roman, Byzantine and Ottoman empires. Cosmopolitan Istanbul, on the Bosphorus Strait, is home to the iconic Hagia Sophia, with its soaring dome and Christian mosaics, the massive 17th-century Blue Mosque and the circa-1460 Topkapı Palace, former home of sultans. Ankara is Turkey’s modern capital.",
+            "color": "#1f5f8b",
+            "value": 82961805
+        },
+        {
+            "title": "Argentina",
+            "description": "Argentina, officially the Argentine Republic, is a country located mostly in the southern half of South America.",
+            "color": "#253b6e",
+            "value": 45101781
+        },
+        {
+            "title": "Egypt",
+            "description": "Egypt, a country linking northeast Africa with the Middle East, dates to the time of the pharaohs. Millennia-old monuments sit along the fertile Nile River Valley, including Giza's colossal Pyramids and Great Sphinx as well as Luxor's hieroglyph-lined Karnak Temple and Valley of the Kings tombs. ",
+            "color": "#1891ac",
+            "value": 101168745
+        },
+        {
+            "title": "Vietnam",
+            "description": "Vietnam is a Southeast Asian country on the South China Sea known for its beaches, rivers, Buddhist pagodas and bustling cities.",
+            "color": "#80caef",
+            "value": 97429061
+        },
+        {
+            "title": "Australia",
+            "description": "Australia, officially the Commonwealth of Australia, is a sovereign country comprising the mainland of the Australian continent, the island of Tasmania, and numerous smaller islands. It is the largest country in Oceania and the world's sixth-largest country by total area.",
+            "color": "#253b6e",
+            "value": 25088636
+        },
+        {
+            "title": "Ghana",
+            "description": "Ghana, officially the Republic of Ghana, is a country located along the Gulf of Guinea and Atlantic Ocean, in the subregion of West Africa.",
+            "color": "#1891ac",
+            "value": 30096970
+        },
+        {
+            "title": "Mexico",
+            "description": "Mexico is a country between the U.S. and Central America that's known for its Pacific and Gulf of Mexico beaches and its diverse landscape of mountains, deserts and jungles.",
+            "color": "#1f5f8b",
+            "value": 132328035
+        },
+        {
+            "title": "Burkina Faso",
+            "description": "Burkina Faso is a landlocked country in West Africa. It covers an area of around 274,200 square kilometres and is surrounded by six countries.",
+            "color": "#1891ac",
+            "value": 20321560
+        },
+        {
+            "title": "Tanzania",
+            "description": "Tanzania is an East African country known for its vast wilderness areas. ",
+            "color": "#1f5f8b",
+            "value": 60913557
+        },
+        {
+            "title": "Kenya",
+            "description": "Kenya is a country in East Africa with coastline on the Indian Ocean. It encompasses savannah, lakelands, the dramatic Great Rift Valley and mountain highlands.",
+            "color": "#253b6e",
+            "value": 52214791
+        },
+        {
+            "title": "Madagascar",
+            "description": "Madagascar, officially the Republic of Madagascar, and previously known as the Malagasy Republic, is an island country in the Indian Ocean, approximately 400 kilometres off the coast of East Africa.",
+            "color": "#1891ac",
+            "value": 26969642
+        },
+        {
+            "title": "Uzbekistan",
+            "description": "Uzbekistan is a Central Asian nation and former Soviet republic. It's known for its mosques, mausoleums and other sites linked to the Silk Road, the ancient trade route between China and the Mediterranean. ",
+            "color": "#1f5f8b",
+            "value": 32807368
+        },
+        {
+            "title": "United Kingdom",
+            "description": "The United Kingdom, made up of England, Scotland, Wales and Northern Ireland, is an island nation in northwestern Europe.",
+            "color": "#1891ac",
+            "value": 66959016
+        },
+        {
+            "title": "Venezuela",
+            "description": "Venezuela is a country on the northern coast of South America with diverse natural attractions. Along its Caribbean coast are tropical resort islands including Isla de Margarita and the Los Roques archipelago.",
+            "color": "#1f5f8b",
+            "value": 32779868
+        },
+        {
+            "title": "Ivory Coast",
+            "description": "Côte d'Ivoire is a West African country with beach resorts, rainforests and a French-colonial legacy.",
+            "color": "#80caef",
+            "value": 25531083
+        },
+        {
+            "title": "Thailand",
+            "description": "Thailand, officially the Kingdom of Thailand and formerly known as Siam, is a country at the centre of the Southeast Asian Indochinese peninsula composed of 76 provinces.",
+            "color": "#253b6e",
+            "value": 69306160
+        },
+        {
+            "title": "Morocco",
+            "description": "Morocco, a North African country bordering the Atlantic Ocean and Mediterranean Sea, is distinguished by its Berber, Arabian and European cultural influences.",
+            "color": "#80caef",
+            "value": 36635156
+        }
+    ]
+}
